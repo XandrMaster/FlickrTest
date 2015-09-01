@@ -1,0 +1,22 @@
+{
+  "photos": {
+    "page": 1,
+    "pages": 294345,
+    "perpage": 1,
+    "total": "294345",
+    "photo": [
+      {
+        "id": "21056234965",
+        "owner": "98501951@N08",
+        "secret": "93abf84979",
+        "server": "747",
+        "farm": 1,
+        "title": "La Marrana Skyraces 1015",
+        "ispublic": 1,
+        "isfriend": 0,
+        "isfamily": 0
+      }
+    ]
+  },
+  "stat": "ok"
+}
