@@ -1,1 +1,2 @@
 d:\ProgramFiles\Git\cmd\git remote add origin https://github.com/XandrMaster/FlickrTest.git
+Test
