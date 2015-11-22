@@ -7,4 +7,5 @@ Technical task:
 simple text box, you type in a word, it performs a query on flickr images api,
 and shows the first result
 
-TestCommit
+TEST_COMMIT
+TEST_FETCH
