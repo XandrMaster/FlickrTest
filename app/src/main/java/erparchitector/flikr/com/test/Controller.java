@@ -39,6 +39,7 @@ public class Controller {
         this.activity = new WeakReference<Activity>(activity);
         webClient = WebClient.getInstance();
         initRxJ();
+
     }
 
     private String getFirstFlickrImgUrl(String searchStr){
