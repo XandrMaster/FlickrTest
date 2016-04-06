@@ -1,0 +1,4 @@
+git fetch origin
+git reset --hard origin/master
+//*** for refresh from remote
+http://www.arlocarreon.com/blog/git/untrack-files-in-git-repos-without-deleting-them/
